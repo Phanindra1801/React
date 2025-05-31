@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React/shoe-filtering/static/css/main.4fa1e722.css",
-    "main.js": "/React/shoe-filtering/static/js/main.8278467e.js",
-    "index.html": "/React/shoe-filtering/index.html",
-    "main.4fa1e722.css.map": "/React/shoe-filtering/static/css/main.4fa1e722.css.map",
-    "main.8278467e.js.map": "/React/shoe-filtering/static/js/main.8278467e.js.map"
+    "main.css": "/React/static/css/main.4fa1e722.css",
+    "main.js": "/React/static/js/main.8278467e.js",
+    "index.html": "/React/index.html",
+    "main.4fa1e722.css.map": "/React/static/css/main.4fa1e722.css.map",
+    "main.8278467e.js.map": "/React/static/js/main.8278467e.js.map"
   },
   "entrypoints": [
     "static/css/main.4fa1e722.css",
